@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4f760dd9205de0245a361a8956a76ced
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - jabjai
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 64cd4c3b3f7ce9d41b923c6481761344, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

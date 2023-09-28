@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Introduction L1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Introduction L2.unity
+    guid: 854a5d02e2d4dc74f8ec7ac5a25a0f2f
+  - enabled: 1
+    path: Assets/Scenes/Cave L3.unity
+    guid: 2d82ebbf584e9a34ea544317c28887cf
+  - enabled: 1
+    path: Assets/Scenes/Cave Spinner L4.unity
+    guid: 1a619fc9458302a46aacfacb6829c35a
+  - enabled: 1
+    path: Assets/Scenes/Cave Dropper L5.unity
+    guid: 7ff04b77b8d50934e92e2f04a34c843e
+  - enabled: 1
+    path: Assets/Scenes/Cave Final L6.unity
+    guid: 464bc3f2e8dc10f40929e48cb53c9a2c
+  m_configObjects: {}
